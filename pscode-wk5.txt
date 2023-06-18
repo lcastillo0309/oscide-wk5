@@ -1,0 +1,36 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+x = 4
+y = 5
+print(x + y)
+
+// Exercise 2: Check if a Number is Even or Odd
+
+(num = input
+if: num /2
+print('this number is even')
+else:
+print('this number is odd')
+)
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers. 
+num = [1, 2, 3, 4, 5,]  
+b) Calculate the average of the five numbers.
+avg = sum(num)/len(num)
+print(avg)
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+print(min(1))
+print(max(5))
+d) Write out the results found from steps b and c with a message describing what they are
+
+For B was getting the average number from the 5 variables/numbers we wrote down and the average was 3.
+
+C is showing what is the lowest number of the 5 which the lowest number is 1 and the highest is 5.
+
+
+(Your pseudocode here)
+
+-- END --
